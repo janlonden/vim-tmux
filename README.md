@@ -20,6 +20,7 @@ Reopen your terminal and run `base16_eighties`
 0. Run `sudo apt install vim`
 0. Copy `.vimrc` to `~/`
 0. Run `curl -fLo ~/.vim/autoload/plug.vim --create-dirs \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim`
+0. Open vim and run `PlugInstall`
 
 ## Tmux
 
